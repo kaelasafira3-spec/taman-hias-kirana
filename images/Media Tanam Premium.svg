@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f9f2"/><stop offset="1" stop-color="#dcebd6"/></linearGradient>
+<path id="leaf" d="M0,0 C30,-10 52,-40 46,-72 C16,-66 -16,-40 0,0 Z"/></defs>
+<rect width="800" height="800" fill="url(#g)"/><circle cx="400" cy="400" r="300" fill="#fff" opacity=".45"/>
+<ellipse cx="400" cy="685" rx="230" ry="22" fill="#183d27" opacity=".13"/><path d="M262,240 L538,240 Q566,300 552,372 L562,640 Q562,684 520,684 L280,684 Q238,684 238,640 L248,372 Q234,300 262,240Z" fill="#8a5a34"/>
+<path d="M262,240 L538,240 Q548,262 551,290 L249,290 Q252,262 262,240Z" fill="#6f4627"/>
+<rect x="256" y="222" width="288" height="36" rx="12" fill="#6f4627"/>
+<path d="M262,300 L538,300" stroke="#fff" stroke-opacity=".15" stroke-width="4" stroke-dasharray="14 10"/>
+<rect x="290" y="400" width="220" height="190" rx="16" fill="#f8f5ec"/>
+<use href="#leaf" transform="translate(400,468) rotate(15)" fill="#2f6b43"/>
+<use href="#leaf" transform="translate(400,468) rotate(-30) scale(.8)" fill="#3f8a58"/>
+<text x="400" y="522" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="36" fill="#183d27">MEDIA</text>
+<text x="400" y="560" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="36" fill="#183d27">TANAM</text>
+<text x="400" y="582" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#2f6b43" letter-spacing="2">PREMIUM</text></svg>

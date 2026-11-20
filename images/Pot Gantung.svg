@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f9f2"/><stop offset="1" stop-color="#dcebd6"/></linearGradient>
+<path id="leaf" d="M0,0 C30,-10 52,-40 46,-72 C16,-66 -16,-40 0,0 Z"/></defs>
+<rect width="800" height="800" fill="url(#g)"/><circle cx="400" cy="400" r="300" fill="#fff" opacity=".45"/>
+<circle cx="400" cy="92" r="18" fill="none" stroke="#7a5a3a" stroke-width="8"/>
+<g stroke="#a98757" stroke-width="7" fill="none" stroke-linecap="round"><path d="M400,110 L262,335"/><path d="M400,110 L538,335"/><path d="M400,110 L400,340"/></g>
+<path d="M240,345 L560,345 Q560,530 400,570 Q240,530 240,345Z" fill="#c8773f"/>
+<path d="M240,345 L560,345 Q556,400 540,430 L260,430 Q244,400 240,345Z" fill="#fff" opacity=".08"/>
+<rect x="224" y="328" width="352" height="32" rx="14" fill="#b3642f"/>
+<g fill="#2f6b43"><ellipse cx="320" cy="318" rx="34" ry="16" transform="rotate(-25 320 318)"/><ellipse cx="400" cy="300" rx="36" ry="16" transform="rotate(-80 400 300)"/><ellipse cx="480" cy="318" rx="34" ry="16" transform="rotate(25 480 318)"/><ellipse cx="365" cy="305" rx="30" ry="14" fill="#3f8a58" transform="rotate(-50 365 305)"/><ellipse cx="438" cy="305" rx="30" ry="14" fill="#3f8a58" transform="rotate(50 438 305)"/></g>
+<g stroke="#2f6b43" stroke-width="6" fill="none" stroke-linecap="round"><path d="M262,352 C240,420 280,500 250,610"/><path d="M345,358 C330,450 360,520 340,640"/><path d="M540,352 C565,430 520,510 555,600"/></g>
+<g fill="#3f8a58"><ellipse cx="258" cy="440" rx="22" ry="11" transform="rotate(-30 258 440)"/><ellipse cx="262" cy="530" rx="22" ry="11" transform="rotate(30 262 530)"/><ellipse cx="338" cy="470" rx="22" ry="11" transform="rotate(-30 338 470)"/><ellipse cx="346" cy="580" rx="22" ry="11" transform="rotate(30 346 580)"/><ellipse cx="552" cy="450" rx="22" ry="11" transform="rotate(30 552 450)"/><ellipse cx="545" cy="540" rx="22" ry="11" transform="rotate(-30 545 540)"/></g></svg>

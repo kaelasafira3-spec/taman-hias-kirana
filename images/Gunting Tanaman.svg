@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f9f2"/><stop offset="1" stop-color="#dcebd6"/></linearGradient>
+<path id="leaf" d="M0,0 C30,-10 52,-40 46,-72 C16,-66 -16,-40 0,0 Z"/></defs>
+<rect width="800" height="800" fill="url(#g)"/><circle cx="400" cy="400" r="300" fill="#fff" opacity=".45"/>
+<g stroke-linecap="round" fill="none">
+<path d="M400,350 C372,440 318,490 282,540" stroke="#c8553d" stroke-width="30"/>
+<path d="M400,350 C428,440 482,490 518,540" stroke="#a84630" stroke-width="30"/>
+<ellipse cx="262" cy="582" rx="62" ry="46" transform="rotate(-35 262 582)" stroke="#c8553d" stroke-width="26"/>
+<ellipse cx="538" cy="582" rx="62" ry="46" transform="rotate(35 538 582)" stroke="#a84630" stroke-width="26"/></g>
+<polygon points="395,360 322,110 356,98 418,340" fill="#b9c4bf"/>
+<polygon points="405,360 478,110 444,98 382,340" fill="#dfe6e2"/>
+<polygon points="356,98 322,110 330,140 352,128" fill="#fff" opacity=".5"/>
+<circle cx="400" cy="350" r="20" fill="#183d27"/><circle cx="400" cy="350" r="8" fill="#6f8a7a"/></svg>

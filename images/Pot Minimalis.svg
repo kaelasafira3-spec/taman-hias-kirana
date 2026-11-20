@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f9f2"/><stop offset="1" stop-color="#dcebd6"/></linearGradient>
+<path id="leaf" d="M0,0 C30,-10 52,-40 46,-72 C16,-66 -16,-40 0,0 Z"/></defs>
+<rect width="800" height="800" fill="url(#g)"/><circle cx="400" cy="400" r="300" fill="#fff" opacity=".45"/>
+<ellipse cx="400" cy="685" rx="230" ry="22" fill="#183d27" opacity=".13"/><path d="M255,430 L545,430 L518,640 Q514,662 492,662 L308,662 Q286,662 282,640 Z" fill="#f4efe3"/>
+<path d="M255,430 L545,430 L538,490 L262,490 Z" fill="#000" opacity=".04"/>
+<rect x="238" y="400" width="324" height="48" rx="16" fill="#e6dec9"/>
+<ellipse cx="400" cy="402" rx="150" ry="10" fill="#5b4430"/><g transform="translate(400,404) rotate(-60)"><path d="M0,0 C-40,-60 -30,-150 0,-190 C30,-150 40,-60 0,0Z" fill="#2f6b43"/></g><g transform="translate(400,404) rotate(-25)"><path d="M0,0 C-40,-60 -30,-150 0,-190 C30,-150 40,-60 0,0Z" fill="#3f8a58"/></g><g transform="translate(400,404) rotate(0)"><path d="M0,0 C-40,-60 -30,-150 0,-190 C30,-150 40,-60 0,0Z" fill="#245536"/></g><g transform="translate(400,404) rotate(25)"><path d="M0,0 C-40,-60 -30,-150 0,-190 C30,-150 40,-60 0,0Z" fill="#3f8a58"/></g><g transform="translate(400,404) rotate(60)"><path d="M0,0 C-40,-60 -30,-150 0,-190 C30,-150 40,-60 0,0Z" fill="#2f6b43"/></g></svg>
